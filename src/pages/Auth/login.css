@@ -1,0 +1,7 @@
+.login_page {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+.login_page .left {
+  background: black;
+}
